@@ -1,0 +1,11 @@
+C:\Users\value\source\repos\IPConverter\IPConverter\bin\Debug\IPConverter.exe.config
+C:\Users\value\source\repos\IPConverter\IPConverter\bin\Debug\IPConverter.exe
+C:\Users\value\source\repos\IPConverter\IPConverter\bin\Debug\IPConverter.pdb
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.csprojResolveAssemblyReference.cache
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.Properties.Resources.resources
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.csproj.GenerateResource.cache
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.csproj.CoreCompileInputs.cache
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.exe
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.pdb
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.main.resources
+C:\Users\value\source\repos\IPConverter\IPConverter\obj\Debug\IPConverter.Credits.resources
